@@ -28,4 +28,4 @@ Prophet: A powerful library for time-series forecasting.
 
 Matplotlib & Seaborn: Used for data visualization and exploratory analysis.
 
-Jupyter Notebooks: The primary environment for development and documentation.
+Google colab : The primary environment for development and documentation.
